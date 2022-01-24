@@ -7,3 +7,5 @@ Here I have created the analysis model of a Super Mart datasheet given by the co
 ● You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
 ● Dataset: https://bit.ly/3i4rbWl
+
+Link for the project:- https://supermart-analysis.web.app/
